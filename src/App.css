@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-width: 66vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Card {
+  width: 257px;
+  background-color: #4b4d52;
+  color: white;
+  margin: 12px;
+  border-radius: 10px;
+  position: relative;
+}
+.Card h1 {
+  font-size: 2em;
+}
+.Card p {
+  font-size: 0.7em;
+  text-align: left;
+  margin: 0px 12px 116px 12px;
+}
+
+Img {
+  margin-top: 12px;
+}
+
+.Button {
+  width: 233px;
+  background-color: #18191a;
+  color: white;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 10px;
+  border-style: none;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+.Button:hover {
+  background-color: #282c34;
+}
+
+.PromoButton {
+  width: 233px;
+  background-color: #a3998d;
+  color: white;
+  font-weight: bold;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 10px;
+  border-style: none;
+  position: absolute;
+  bottom: 52px;
+  left: 0px;
+}
+.PromoButton:hover {
+  background-color: #c7beb4;
+}
+
+.Select {
+  width: 257px;
+  background-color: #18191a;
+  color: white;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 10px;
+  border-style: none;
+  position: relative;
+}
+.Select:hover {
+  background-color: #4b4d52;
+}
