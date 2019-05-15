@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_games_list/static/css/main.ee0cc453.chunk.css",
+    "main.js": "/react_games_list/static/js/main.d2709da8.chunk.js",
+    "main.js.map": "/react_games_list/static/js/main.d2709da8.chunk.js.map",
+    "runtime~main.js": "/react_games_list/static/js/runtime~main.bdcc6ab4.js",
+    "runtime~main.js.map": "/react_games_list/static/js/runtime~main.bdcc6ab4.js.map",
+    "static/js/2.22f8dd3a.chunk.js": "/react_games_list/static/js/2.22f8dd3a.chunk.js",
+    "static/js/2.22f8dd3a.chunk.js.map": "/react_games_list/static/js/2.22f8dd3a.chunk.js.map",
+    "index.html": "/react_games_list/index.html",
+    "precache-manifest.382ca385089c6c9ee6a0fba40659e63c.js": "/react_games_list/precache-manifest.382ca385089c6c9ee6a0fba40659e63c.js",
+    "service-worker.js": "/react_games_list/service-worker.js",
+    "static/css/main.ee0cc453.chunk.css.map": "/react_games_list/static/css/main.ee0cc453.chunk.css.map"
+  }
+}
