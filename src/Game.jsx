@@ -18,6 +18,8 @@ class Game extends Component {
                 <h1>{this.props.game.name}</h1>
 
                 <p>{this.props.game.description}</p>
+
+                <p>{this.props.game.id}</p>
                 
                 <NavLink to={`/trailer/${this.props.game.id}`}>
                     <button

@@ -14,7 +14,7 @@ class GameList extends Component {
     }
   
     componentWillMount() {
-      axios.get(`http://www.campus-bordeaux.ovh:3002/joysticks/api/games`)
+      axios.get(`games.json`)
         .then(res => {
           this.setState({ games: res.data });
           this.props.handleApi(res.data);
