@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_games_list/static/css/main.ee0cc453.chunk.css",
-    "main.js": "/react_games_list/static/js/main.8836b389.chunk.js",
-    "main.js.map": "/react_games_list/static/js/main.8836b389.chunk.js.map",
+    "main.js": "/react_games_list/static/js/main.876f44ca.chunk.js",
+    "main.js.map": "/react_games_list/static/js/main.876f44ca.chunk.js.map",
     "runtime~main.js": "/react_games_list/static/js/runtime~main.bdcc6ab4.js",
     "runtime~main.js.map": "/react_games_list/static/js/runtime~main.bdcc6ab4.js.map",
     "static/js/2.978fc8cc.chunk.js": "/react_games_list/static/js/2.978fc8cc.chunk.js",
     "static/js/2.978fc8cc.chunk.js.map": "/react_games_list/static/js/2.978fc8cc.chunk.js.map",
     "index.html": "/react_games_list/index.html",
-    "precache-manifest.ef2639e05a450f14b45da8f0dbedd2f8.js": "/react_games_list/precache-manifest.ef2639e05a450f14b45da8f0dbedd2f8.js",
+    "precache-manifest.046be315d8a5ed25cbd35c01e8b85c70.js": "/react_games_list/precache-manifest.046be315d8a5ed25cbd35c01e8b85c70.js",
     "service-worker.js": "/react_games_list/service-worker.js",
     "static/css/main.ee0cc453.chunk.css.map": "/react_games_list/static/css/main.ee0cc453.chunk.css.map"
   }
